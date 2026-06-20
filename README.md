@@ -60,7 +60,7 @@ Files Used:
 - Cold-start support for new users
 
 ---
-The proposed hybrid recommendation system personalizes movie suggestions by combining user behavior with content similarity. With a Precision@10 of 56.6%, the system demonstrates the ability to deliver relevant recommendations, which can improve user engagement, increase watch time, and enhance platform retention compared to non-personalized recommendation strategies.
+#### The proposed hybrid recommendation system personalizes movie suggestions by combining user behavior with content similarity. With a Precision@10 of 56.6%, the system demonstrates the ability to deliver relevant recommendations, which can improve user engagement, increase watch time, and enhance platform retention compared to non-personalized recommendation strategies.
 ---
-## 👨‍💻 Author
+### 👨‍💻 Author
 Sahil Shah
