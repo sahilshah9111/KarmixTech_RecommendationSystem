@@ -1,0 +1,6 @@
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- Surprise
+- Streamlit
