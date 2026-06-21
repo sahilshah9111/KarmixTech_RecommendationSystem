@@ -59,5 +59,18 @@ Files Used:
 - Better content discovery
 - Cold-start support for new users
 ---
+
+## Application Preview
+
+### Home Page
+
+![Home Page](screenshots/homepage.png)
+
+### Recommendation Results
+
+![Recommendations](screenshots/recommendation.png)
+![Recommendations](screenshots/recommendation1.png)
+
+---
 ### 👨‍💻 Author
 Sahil Shah
